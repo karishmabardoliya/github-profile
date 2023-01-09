@@ -20,10 +20,6 @@ welcome to my GitHub Page. I am Karishma Bardoliya. I have 5 years of web develo
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="icon" width="65" height="65" />
       <br> Angular
     </td>
