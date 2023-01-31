@@ -6,7 +6,7 @@ welcome to my GitHub Page. I am Karishma Bardoliya. I have 5 years of web develo
 
 ## My favorite tools and technologies ⚙️ 
 
-> Tools and technologies that I have worked with and am I interested in
+> Tools and technologies that I have worked with and I am interested in
 <table>
   <tr>
     <td align="center" width="96">
